@@ -1,0 +1,41 @@
+.movie2 {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.movie__title2 {
+  font-weight: bold;
+}
+
+.movie__year2 {
+  font-weight: normal;
+  font-size: 16px;
+  margin: 0;
+}
+
+.movie__genres2 {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 1% 38%;
+  padding: 0.5% 0;
+}
+
+.movie__genres2 li {
+  margin-right: 10px;
+}
+
+.summ__container {
+  width: 40%;
+  margin: 2% auto;
+}
+
+.movie__summary2 {
+  width: 100%;
+  padding: 2% 5%;
+  text-align: justify;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
